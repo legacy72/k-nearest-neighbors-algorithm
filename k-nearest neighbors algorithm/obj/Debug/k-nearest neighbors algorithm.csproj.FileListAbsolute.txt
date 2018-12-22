@@ -1,0 +1,10 @@
+c:\users\vladr\source\repos\k-nearest neighbors algorithm\k-nearest neighbors algorithm\obj\Debug\k-nearest neighbors algorithm.csprojAssemblyReference.cache
+c:\users\vladr\source\repos\k-nearest neighbors algorithm\k-nearest neighbors algorithm\obj\Debug\k_nearest_neighbors_algorithm.Properties.Resources.resources
+c:\users\vladr\source\repos\k-nearest neighbors algorithm\k-nearest neighbors algorithm\obj\Debug\k-nearest neighbors algorithm.csproj.GenerateResource.cache
+c:\users\vladr\source\repos\k-nearest neighbors algorithm\k-nearest neighbors algorithm\obj\Debug\k-nearest neighbors algorithm.csproj.CoreCompileInputs.cache
+c:\users\vladr\source\repos\k-nearest neighbors algorithm\k-nearest neighbors algorithm\bin\Debug\k-nearest neighbors algorithm.exe.config
+c:\users\vladr\source\repos\k-nearest neighbors algorithm\k-nearest neighbors algorithm\bin\Debug\k-nearest neighbors algorithm.exe
+c:\users\vladr\source\repos\k-nearest neighbors algorithm\k-nearest neighbors algorithm\bin\Debug\k-nearest neighbors algorithm.pdb
+c:\users\vladr\source\repos\k-nearest neighbors algorithm\k-nearest neighbors algorithm\obj\Debug\k-nearest neighbors algorithm.exe
+c:\users\vladr\source\repos\k-nearest neighbors algorithm\k-nearest neighbors algorithm\obj\Debug\k-nearest neighbors algorithm.pdb
+C:\Users\vladr\source\repos\k-nearest neighbors algorithm\k-nearest neighbors algorithm\obj\Debug\k_nearest_neighbors_algorithm.Form1.resources
